@@ -29,8 +29,8 @@ A imagem acima exibe a tela de gestão de boletos do usuário. Na parte inferior
   
   ![billsList](https://user-images.githubusercontent.com/49878384/142464843-0b59a8df-7e5c-4fcf-b764-5ba573221672.png)
   
-  O usuário tem a possibilidade de excluir o boleto cadastrado ou definir ele como um boleto que já foi pago, basta ele clicar no item do boleto de sua escolha que irá aparecer 
-  as opções como mostra a imagem abaixo.
+  O usuário tem a possibilidade de excluir o boleto cadastrado ou definir como pago, basta ele clicar no item que corresponde o boleto de sua escolha que aparecerá as opções
+  como mostra a imagem abaixo.
   
   ![Screenshot_1637249518](https://user-images.githubusercontent.com/49878384/142482210-2d421dfe-d205-4f4a-896e-cad61c9a700c.png)
 
