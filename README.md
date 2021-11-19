@@ -52,3 +52,5 @@ Para que o usuário acesse seu perfil basta ele clicar na sua imagem no canto su
 
 ![Screenshot_1637249556](https://user-images.githubusercontent.com/49878384/142491981-c3274d56-2f04-477b-bc06-615c541416d3.png)  ![Screenshot_1637249565](https://user-images.githubusercontent.com/49878384/142491991-1a47d875-3bd3-4ca1-865d-64dc6bb0ea4f.png)
 
+## Download
+Caso queira testar o aplicativo, você pode baixar aqui 
