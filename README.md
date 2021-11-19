@@ -19,7 +19,7 @@ A imagem acima exibe a tela de gestão de boletos do usuário. Na parte inferior
   
   Aqui é mostrado os ícones de todos os seus aplicativos bancários instalados em seu dispositivo, sendo possível abrir o aplicativo do banco apenas clicando no ícone. 
   
-  _Obs: como os prints foram tirados do AVD (Android Virtual Device), a lista de bancos encontrasse vazia_
+  _Obs: como os prints foram tirados do AVD (Android Virtual Device), a lista de bancos encontra-se vazia_
   
   ![bankList](https://user-images.githubusercontent.com/49878384/142453444-1fdd179c-d75a-4ab2-a13c-c97757b8e2eb.png)
 
