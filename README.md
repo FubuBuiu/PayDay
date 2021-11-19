@@ -10,7 +10,7 @@ Para usar o aplicativo basta o usuário se conectar com sua conta Google.
 
 ![Screenshot_1637249504](https://user-images.githubusercontent.com/49878384/142454841-9cf3c172-b13a-4f7f-8d45-d5543ac9a41f.png)
 
-A imagem acima exibe a tela de gestão de boletos do usuário. Na parte inferior da tela temos três botões, sendo dois para navegação, entre as páginas ![home](https://user-images.githubusercontent.com/49878384/142477384-e7cf5670-79eb-416f-9350-fb31e44af804.png)
+A imagem acima exibe a tela de gestão de boletos do usuário. Na parte inferior temos três botões, sendo dois para navegação, entre as páginas ![home](https://user-images.githubusercontent.com/49878384/142477384-e7cf5670-79eb-416f-9350-fb31e44af804.png)
  **Home** e ![extract](https://user-images.githubusercontent.com/49878384/142477932-c8d94b83-6cf7-4546-9c35-336e9653606f.png) **Meus extratos**, e um para adicionar um boleto representado pelo ícone ![addBill](https://user-images.githubusercontent.com/49878384/142479032-c318fce8-d861-4610-aa01-8b1270e4baec.png). Veja a seguir mais detalhes sobre cada uma delas.
 
 ### Home
@@ -45,7 +45,7 @@ O aplicativo disponibiliza duas opções para o usuário adicionar um boleto, se
 ![Screenshot_1637258264](https://user-images.githubusercontent.com/49878384/142486797-56f95575-c62f-49cb-8916-7b1e15499d86.png)  ![Screenshot_1637249293](https://user-images.githubusercontent.com/49878384/142487845-14d1b130-c0b5-42ee-8d68-c10a325c6ece.png)
 
 ### Perfil do Usuário
-Para que o usuário acesse seu perfil basta ele clicar na sua imagem no canto superior direito. Nela ele encontrará opções como:
+Para que o usuário acesse seu perfil basta ele clicar na sua imagem no canto superior direito. Nela será encontrado opções como:
   - Alterar o tema do aplicativo (Dark mode/Light mode)
   - Sair do aplicativo (deslogando a conta do aplicativo, possibilitando logar com outras contas)
   - Deletar conta (excluindo a conta e todo seu conteúdo cadastrado do banco de dados)
